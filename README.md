@@ -4,12 +4,12 @@
 
 ### 二、模型结构图
 
-![QQ_1742220494590](C:\Users\24735\AppData\Local\Temp\QQ_1742220494590.png)
+![model](data\model.png)
 
 ### 三、模型训练效果
 
 本项目进行了50个epoch的训练，下面分别是第1个、第50个epoch训练的效果。
 
-![QQ_1742220713876](C:\Users\24735\AppData\Local\Temp\QQ_1742220713876.png)
+![result1](data\result1.png)
 
-![QQ_1742220756231](C:\Users\24735\AppData\Local\Temp\QQ_1742220756231.png)
+![result2](data\result2.png)
