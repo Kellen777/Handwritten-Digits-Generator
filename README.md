@@ -4,12 +4,12 @@
 
 ### 二、模型结构图
 
-![model](data\model.png)
+![model](https://raw.githubusercontent.com/Kellen777/Handwritten-Digits-Generator/refs/heads/main/data/model.png)
 
 ### 三、模型训练效果
 
 本项目进行了50个epoch的训练，下面分别是第1个、第50个epoch训练的效果。
 
-![result1](data\result1.png)
+![result1](https://raw.githubusercontent.com/Kellen777/Handwritten-Digits-Generator/refs/heads/main/data/result1.png)
 
-![result2](data\result2.png)
+![result2](https://raw.githubusercontent.com/Kellen777/Handwritten-Digits-Generator/refs/heads/main/data/result2.png)
